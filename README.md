@@ -1,6 +1,5 @@
-░█▀▀█ █▀█ 　 █▀▀█ █▀▀▄ █── ─▀─ █▀▀▄ █▀▀ 　 ▀▀█▀▀ █▀▀ █─█ ▀▀█▀▀ █──█ █▀▀█ █▀▀ █▀▀ 
-░█▄▄▀ ─▄▀ 　 █──█ █──█ █── ▀█▀ █──█ █▀▀ 　 ──█── █▀▀ ▄▀▄ ──█── █──█ █▄▄▀ █▀▀ ▀▀█ 
-░█─░█ █▄▄ 　 ▀▀▀▀ ▀──▀ ▀▀▀ ▀▀▀ ▀──▀ ▀▀▀ 　 ──▀── ▀▀▀ ▀─▀ ──▀── ─▀▀▀ ▀─▀▀ ▀▀▀ ▀▀▀
+𝕽2 𝖔𝖓𝖑𝖎𝖓𝖊 𝖙𝖊𝖝𝖙𝖚𝖗𝖊𝖘
+
 
 About R2 Online:
 
@@ -65,3 +64,5 @@ Clone the Repository: Clone your forked repository to your local machine.
 Add your Textures: Add your textures and resources to the appropriate category folders within the repository structure.
 
 Commit and Push: Commit your changes and push them to your forked
+
+𝓫𝔂 𝓥𝓲𝓬𝓽𝓸𝓻 𝓟𝓪𝓿𝓵𝓸𝓿
