@@ -1,36 +1,61 @@
-<h1><span style="font-family:Verdana,Geneva,sans-serif">R2 Online Textures:</span><br />
-&nbsp;</h1>
+<h1>Репозиторий R2 Textures</h1>
 
-<h2>About R2 Online:</h2>
+<p>Добро пожаловать в репозиторий R2 Textures! Здесь вы найдете коллекцию высококачественных текстур для использования в компьютерной графике и разработке игр. Эти текстуры разработаны для улучшения визуального вида ваших проектов и создания реалистичного и захватывающего опыта для ваших пользователей.</p>
 
-<p>R2 Online is an immersive online MMORPG game that takes players on a thrilling adventure in a fantastical world. With its rich visuals and engaging gameplay, R2 Online has gained a significant following among gaming enthusiasts. This repository aims to provide a curated collection of textures and resources that align with the visual style and aesthetics of R2 Online, allowing players and developers to enhance their in-game experience.</p>
+<h2>Содержание</h2>
 
-<h2>Getting Started:</h2>
+<ul>
+	<li><a href="#начало-работы">Начало работы</a></li>
+	<li><a href="#использование">Использование</a></li>
+	<li><a href="#вклад">Вклад</a></li>
+	<li><a href="#лицензия">Лицензия</a></li>
+	<li><a href="#обратная-связь-и-поддержка">Обратная связь и поддержка</a></li>
+</ul>
 
-<p>To get started with the R2 Online Texture Repository, follow these steps:</p>
+<h2>Начало работы</h2>
 
-<h2>Clone the Repository:</h2>
+<p>Для начала использования текстур R2 в ваших проектах у вас есть несколько вариантов:</p>
 
-<p>Begin by cloning this repository to your local machine using the following command:</p>
+<ol>
+	<li><strong>Клонирование репозитория:</strong> Вы можете клонировать этот репозиторий на ваше локальное устройство с помощью следующей команды:</li>
+</ol>
 
 <blockquote>
-<p>git clone&nbsp;<a href="https://github.com/your-username/r2-online-textures.git">https://github.com/your-username/r2-online-textures.git</a></p>
+<p><code>git clone https://github.com/Aksel911/R2-Textures.git </code></p>
 </blockquote>
 
-<h2>Navigate to the Repository:</h2>
+<ol start="2">
+	<li><strong>Загрузка ZIP:</strong> В качестве альтернативы вы можете скачать весь репозиторий в виде ZIP-архива, нажав на кнопку &quot;Code&quot; и выбрав &quot;Download ZIP&quot;. После загрузки вы можете извлечь содержимое в выбранное вами место.</li>
+</ol>
 
-<p>Enter the repository directory:</p>
+<h2>Использование</h2>
 
-<blockquote>
-<p>cd r2-online-textures</p>
-</blockquote>
+<p>После того, как у вас есть текстуры на вашем локальном устройстве, вы можете начать использовать их в ваших проектах. Репозиторий организован в различные категории, каждая из которых содержит разные типы текстур. Не стесняйтесь исследовать разные папки и файлы, чтобы найти текстуры, подходящие для ваших нужд.</p>
 
-<h2>Explore the Textures:</h2>
+<p>Для использования текстур вы можете просто скопировать их в папку вашего проекта или импортировать непосредственно в ваш игровой движок или графическое программное обеспечение. Убедитесь, что ознакомились с документацией вашего конкретного инструмента или фреймворка, чтобы узнать, как лучше использовать текстуры.</p>
 
-<p>Browse through the repository and explore the available textures and resources. You will find various folders categorizing different types of textures, such as characters, environments, items, and more.</p>
+<p>Обратите внимание, что хотя эти текстуры предоставляются бесплатно, они могут быть подвержены определенным ограничениям использования. Дополнительную информацию см. в разделе <a href="https://chat.openai.com/?model=text-davinci-002-render-sha#%D0%BB%D0%B8%D1%86%D0%B5%D0%BD%D0%B7%D0%B8%D1%8F" target="_new">Лицензия</a>.</p>
 
-<h2>Download and Use:</h2>
+<h2>Вклад</h2>
 
-<p>Select the desired textures and download them to use in your R2 Online projects. You can either manually download the files or use a version control system to manage the repository in your own project.</p>
+<p>Мы приветствуем вклад в репозиторий R2 Textures! Если у вас есть высококачественные текстуры, которыми вы хотели бы поделиться с сообществом, пожалуйста, следуйте этим шагам:</p>
+
+<ol>
+	<li>Сделайте форк репозитория на свой аккаунт GitHub.</li>
+	<li>Создайте новую ветку с описательным названием для ваших изменений.</li>
+	<li>Добавьте свои текстуры в соответствующие папки или создайте новые папки при необходимости.</li>
+	<li>Зафиксируйте ваши изменения и отправьте их в свой репозиторий-форк.</li>
+	<li>Откройте pull request (запрос на включение изменений) в исходном репозитории, пояснив, какие изменения вы внесли и почему они должны быть включены.</li>
+</ol>
+
+<p>Пожалуйста, убедитесь, что ваши вклады соответствуют существующей лицензии и не нарушают авторские права или права интеллектуальной собственности.</p>
+
+<h2>Лицензия</h2>
+
+<p>Репозиторий R2 Textures лицензируется на условиях лицензии <a href="https://creativecommons.org/licenses/by/4.0/deed.ru" target="_new">Creative Commons Attribution 4.0 International (CC BY 4.0)</a>. Это означает, что вы можете свободно использовать, изменять и распространять текстуры в коммерческих и некоммерческих целях, <strong>при условии, что вы указываете соответствующую ссылку на оригинального автора (Aksel911)</strong> <strong>и указываете все внесенные изменения</strong>.</p>
+
+<h2>Обратная связь и поддержка</h2>
+
+<p>Если у вас возникли вопросы, предложения или проблемы, связанные с репозиторием R2 Textures, пожалуйста, не стесняйтесь создать issue на странице репозитория GitHub. Мы ценим вашу обратную связь и постараемся ответить на все ваши вопросы и учесть все ваши пожелания.</p>
 
 𝓫𝔂 𝓥𝓲𝓬𝓽𝓸𝓻 𝓟𝓪𝓿𝓵𝓸𝓿
