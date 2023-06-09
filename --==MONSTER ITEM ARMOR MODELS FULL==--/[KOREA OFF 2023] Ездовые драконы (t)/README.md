@@ -16,6 +16,8 @@
 
 <p style="text-align:center">- Разделю по папкам на пол/класс</p>
 
+- Добавить заливку всех .dds , а не только основных
+
 <p style="text-align:center">&nbsp;</p>
 
 <p style="text-align:center">𝓫𝔂 𝓥𝓲𝓬𝓽𝓸𝓻 𝓟𝓪𝓿𝓵𝓸𝓿</p>
