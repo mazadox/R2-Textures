@@ -12,16 +12,20 @@
 
 <p style="text-align:center">&nbsp;</p>
 
-<p style="text-align:center">Добавлю позже:</p>
 
-<p style="text-align:center">- Эффекты с текстурами</p>
+
+
+
+<p style="text-align:center">TODO:</p>
+
+<p style="text-align:center">Эффекты с текстурами:</p>
 
 - + DONE (Добавлены Particles эффекты, находятся в папке effect\effect или effect\texture (если он есть у модели)) 
 
-<p style="text-align:center">- Разделить по папкам на пол/класс</p>
+<p style="text-align:center">Разделить по папкам на пол/класс:</p>
 - + DONE (Добавил разделение на класс и пол в character\model)
 
-<p style="text-align:center">- Добавить заливку всех .dds , а не только основных</p>
+<p style="text-align:center">Добавить заливку всех .dds , а не только основных:</p>
 
 - + DONE (Добавил полностью все .dds файлы, которые относятся к модели. (character\texture)
 
