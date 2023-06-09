@@ -2,7 +2,7 @@
 
 <h2 style="text-align:center">от 6.6.2023</h2>
 
-<p style="text-align:center">Разделены по папкам ALevel</p>
+<p style="text-align:center">AType = 46. Разделены по папкам ALevel</p>
 
 <p style="text-align:center">- От 0 до 9 Класс и пол</p>
 
