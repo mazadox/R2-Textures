@@ -14,11 +14,11 @@
 
 <p style="text-align:center">Добавлю позже:</p>
 
-<p style="text-align:center">- Эффекты с текстурами</p>
+<p style="text-align:center">- Эффекты с текстурами + DONE</p>
 
-<p style="text-align:center">- Разделю по папкам на пол/класс</p>
+<p style="text-align:center">- Разделю по папкам на пол/класс + DONE</p>
 
-<p style="text-align:center">- Добавить заливку всех .dds , а не только основных</p>
+<p style="text-align:center">- Добавить заливку всех .dds , а не только основных + DONE</p>
 
 <p style="text-align:center">&nbsp;</p>
 
