@@ -1,34 +1,39 @@
-<h1 style="text-align:center">Ездовые Драконы. Модели с корейского оффициального сервера</h1>
+<h1>Ездовые Драконы. Модели с корейского оффициального сервера</h1>
 
-<h2 style="text-align:center">от 6.6.2023</h2>
+<h2>от 6.6.2023</h2>
 
-<p style="text-align:center">Разделены по папкам ALevel</p>
+<h3>Разделены по папкам ALevel.</h3>
 
-<p style="text-align:center">AType = 46</p>
+<ul>
+	<li>Внутри каждой папки лежит <strong>README.md</strong>, в котором IID и IName предмета, который относится к дракону.</li>
+	<li>AType ездовых драконов = <strong>46</strong></li>
+	<li>Включает модель, анимацию текстуру, звук, эффект (полностью все)</li>
+</ul>
 
-<p style="text-align:center">- От 0 до 9 Класс и пол</p>
+<p>&nbsp;</p>
 
-<p style="text-align:center">- Включает модель, анимацию текстуру, звук, эффект</p>
+<h2>TODO:</h2>
 
-<p style="text-align:center">&nbsp;</p>
+<h3>Эффекты с текстурами:</h3>
 
+<ul>
+	<li>
+	<h4>DONE (Добавлены Particles эффекты, находятся в папке effect\effect или effect\texture (если он есть у модели))</h4>
+	</li>
+</ul>
 
+<h3>Разделить по папкам на пол/класс:</h3>
 
+<ul>
+	<li>DONE (Добавил разделение на класс и пол в character\model)D</li>
+</ul>
 
+<h3>Добавить заливку всех .dds , а не только основных:</h3>
 
-<p style="text-align:center">TODO:</p>
+<ul>
+	<li>DONE (Добавил полностью все .dds файлы, которые относятся к модели. (character\texture)</li>
+</ul>
 
-<p style="text-align:center">Эффекты с текстурами:</p>
+<p>&nbsp;</p>
 
-- + DONE (Добавлены Particles эффекты, находятся в папке effect\effect или effect\texture (если он есть у модели)) 
-
-<p style="text-align:center">Разделить по папкам на пол/класс:</p>
-- + DONE (Добавил разделение на класс и пол в character\model)
-
-<p style="text-align:center">Добавить заливку всех .dds , а не только основных:</p>
-
-- + DONE (Добавил полностью все .dds файлы, которые относятся к модели. (character\texture)
-
-<p style="text-align:center">&nbsp;</p>
-
-<p style="text-align:center">𝓫𝔂 𝓥𝓲𝓬𝓽𝓸𝓻 𝓟𝓪𝓿𝓵𝓸𝓿</p>
+<p>𝓫𝔂 𝓥𝓲𝓬𝓽𝓸𝓻 𝓟𝓪𝓿𝓵𝓸𝓿</p>
