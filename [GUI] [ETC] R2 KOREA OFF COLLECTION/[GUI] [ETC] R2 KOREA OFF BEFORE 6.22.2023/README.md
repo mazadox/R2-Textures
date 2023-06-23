@@ -1,4 +1,4 @@
-<h1 style="text-align:center">ETC + GUI R2 Korea Official</h1>
+<h1 style="text-align:center">ETC + GUI R2 Korea Official До 6.23.2023</h1>
 
 <p style="text-align:center">ETC + GUI от R2 KR OFFICIAL (6.6.2023)</p>
 
