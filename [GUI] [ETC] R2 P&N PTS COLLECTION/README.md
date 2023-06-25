@@ -1,4 +1,4 @@
-<h1>Коллекция GUI + ETC от R2 Online P&N<br />
+<h1>Коллекция GUI + ETC от R2 Online P&N PTS<br />
 <br />
 &nbsp;</h1>
 
