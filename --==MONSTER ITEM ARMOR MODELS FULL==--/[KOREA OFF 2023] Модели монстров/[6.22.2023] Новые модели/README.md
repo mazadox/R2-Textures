@@ -14,11 +14,6 @@
 <figcaption data-captions="[&quot;Жестокий Берсерк (Cruel Versurker)&quot;]">
 <p>&nbsp;</p>
 
-<div data-oembed-url="https://www.youtube.com/watch?v=KUzkbAVIepU">
-<div>
-<div style="left: 0; width: 100%; height: 0; position: relative; padding-bottom: 56.25%;"><iframe allow="accelerometer *; clipboard-write *; encrypted-media *; gyroscope *; picture-in-picture *; web-share *;" allowfullscreen="" scrolling="no" src="//if-cdn.com/zO9YLjQ" style="top: 0; left: 0; width: 100%; height: 100%; position: absolute; border: 0;" tabindex="-1"></iframe></div>
-</div>
-</div>
 
 <p>&nbsp;</p>
 </figcaption>
