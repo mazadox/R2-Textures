@@ -5,6 +5,6 @@
 
 <h4><br />
 <br />
-В папке&nbsp;<strong>R2 KOREA OFF BEFORE 6.22.2023</strong> находится&nbsp;<strong>1016</strong> скиллов, которые разделены на<strong> 2 </strong>папки по <strong>508 </strong>скиллов на каждую.</h4>
+В папке&nbsp;<strong>R2 KOREA OFF (6.6.2023)</strong> находится&nbsp;<strong>1016</strong> скиллов, которые разделены на<strong> 2 </strong>папки по <strong>508 </strong>скиллов на каждую.</h4>
 
-<p>В папке&nbsp;<strong>R2 KOREA OFF AFTER 6.22.2023</strong> находится&nbsp;<strong>1054&nbsp;</strong>скиллов, которые разделены на<strong> 2 </strong>папки по <strong>527&nbsp;</strong>скиллов на каждую.</p>
+<p>В папке&nbsp;<strong>R2 KOREA OFF (6.22.2023)</strong> (LAST UPDATE) находится&nbsp;<strong>1054&nbsp;</strong>скиллов, которые разделены на<strong> 2 </strong>папки по <strong>527&nbsp;</strong>скиллов на каждую.</p>
