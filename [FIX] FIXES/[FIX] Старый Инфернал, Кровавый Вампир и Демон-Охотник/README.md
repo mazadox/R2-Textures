@@ -10,6 +10,6 @@
 
 <p style="text-align:center"><img alt="Кровавый Вампир" src="https://r2wiki.ru/upload/morphs/2018/06/19/b7aa7530b376c7eae024976ae7d5855f.jpg" style="height:352px; width:300px" /></p>
 
-<p style="text-align:center">А так же лежат модели одного из первых морфов в R2 Online - Демона-Охотника, а так же Демона-Охотника Ада.</p>
+<p style="text-align:center">А так же лежат модели одного из первых морфов в R2 Online - Демона-Охотника и Адского Демона-Охотника.</p>
 
 <p>&nbsp;</p>
