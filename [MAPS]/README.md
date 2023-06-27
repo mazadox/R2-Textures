@@ -1,4 +1,8 @@
-<h1>MAPS<br />
-<img alt="" src="https://github.com/Aksel911/R2-Textures/blob/main/%5BMAPS%5D/%5BCLIENT%5D/%5BCLIENT%5D%20color.png?raw=true" style="height:876px; width:1080px" /></h1>
+<h1 style="text-align:center"><strong>MAPS</strong><br />
+&nbsp;</h1>
+
+<p style="text-align:center">Разбор карт R2 Online</p>
+
+<p style="text-align:center">Для точного сравнения с реальной картой, необходимо отразить!</p>
 
 <p>&nbsp;</p>
