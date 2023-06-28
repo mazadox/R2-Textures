@@ -16,4 +16,3 @@
 
 ![Image 5](https://github.com/Aksel911/R2-Textures/blob/main/%5B48x48%5D%20PNG%20ITEMS%20AND%20MONSTERS%20PICS/skillbooks2_0_432.png) - SkillBooks
 
-<p>Приятного использования!</p>

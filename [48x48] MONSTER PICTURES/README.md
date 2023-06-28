@@ -16,5 +16,5 @@
 
 ![Image 5](https://github.com/Aksel911/R2-Textures/blob/main/%5B48x48%5D%20MONSTER%20PICTURES/1337.jpg)
 
-<p>Приятного использования!</p>
+
 
