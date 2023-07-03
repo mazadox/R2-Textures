@@ -146,10 +146,10 @@
 		<FrameEvent Type="DELAY" Frame="8" DamageType="L" ID="0" Delay="0.03"></FrameEvent>
 		<FrameEvent Type="DELAY" Frame="9" DamageType="L" ID="0" Delay="0.05"></FrameEvent>
 		<FrameEvent Type="DELAY" Frame="18" DamageType="R" ID="0" Delay="0.1"></FrameEvent>
-                        <FrameEvent Type="EFFECT" Frame="6">16003.TXT</FrameEvent>
-                        <FrameEvent Type="EFFECT" Frame="8">16005.TXT</FrameEvent>
-                        <FrameEvent Type="EFFECT" Frame="17">16004.TXT</FrameEvent>
-                        <FrameEvent Type="EFFECT" Frame="18">16006.TXT</FrameEvent>
+                        <FrameEvent Type="EFFECT" Frame="6">6003.TXT</FrameEvent>
+                        <FrameEvent Type="EFFECT" Frame="8">6005.TXT</FrameEvent>
+                        <FrameEvent Type="EFFECT" Frame="17">6004.TXT</FrameEvent>
+                        <FrameEvent Type="EFFECT" Frame="18">6006.TXT</FrameEvent>
 		<FrameEvent Type="SOUND" Frame="6" Volume="100">m01151_05 Whs_01.wav</FrameEvent>
 		<FrameEvent Type="SOUND" Frame="17" Volume="100">m01151_05 Whs_02.wav</FrameEvent>
 	</Action>
@@ -159,7 +159,7 @@
 		<FrameEvent Type="DELAY" Frame="15" DamageType="U" ID="0" Delay="0.03"></FrameEvent>
 		<FrameEvent Type="DELAY" Frame="17" DamageType="D" ID="0" Delay="0.03"></FrameEvent>
 		<FrameEvent Type="DELAY" Frame="19" DamageType="U" ID="0" Delay="0.1"></FrameEvent>	
-                        <FrameEvent Type="EFFECT" Frame="13">16007.TXT</FrameEvent>
+                        <FrameEvent Type="EFFECT" Frame="13">6007.TXT</FrameEvent>
 		<FrameEvent Type="SOUND" Frame="0" Volume="100">m01151_06 Whs_01.wav</FrameEvent>
 		<FrameEvent Type="SOUND" Frame="13" Volume="100">m01151_06 Whs_02.wav</FrameEvent>
 	</Action>

@@ -146,10 +146,10 @@
 		<FileName>m01154_05.rab</FileName>
 		<FrameEvent Type="DELAY" Frame="12" DamageType="L" ID="0" Delay="0.12"></FrameEvent>
 		<FrameEvent Type="DELAY" Frame="22" DamageType="R" ID="0" Delay="0.15"></FrameEvent>
-                        <FrameEvent Type="EFFECT" Frame="10">16014.TXT</FrameEvent>
-                        <FrameEvent Type="EFFECT" Frame="12">16016.TXT</FrameEvent>
-                        <FrameEvent Type="EFFECT" Frame="20">16015.TXT</FrameEvent>
-                        <FrameEvent Type="EFFECT" Frame="22">16017.TXT</FrameEvent>
+                        <FrameEvent Type="EFFECT" Frame="10">6014.TXT</FrameEvent>
+                        <FrameEvent Type="EFFECT" Frame="12">6016.TXT</FrameEvent>
+                        <FrameEvent Type="EFFECT" Frame="20">6015.TXT</FrameEvent>
+                        <FrameEvent Type="EFFECT" Frame="22">6017.TXT</FrameEvent>
 		<FrameEvent Type="SOUND" Frame="0" Volume="70">m01154_05_Idle.wav</FrameEvent>
 		<FrameEvent Type="SOUND" Frame="10" Volume="100">m01154_05_Whs.wav</FrameEvent>
 	</Action>
@@ -159,8 +159,8 @@
 		<FrameEvent Type="DELAY" Frame="14" DamageType="U" ID="0" Delay="0.03"></FrameEvent>
 		<FrameEvent Type="DELAY" Frame="15" DamageType="D" ID="0" Delay="0.05"></FrameEvent>
 		<FrameEvent Type="DELAY" Frame="17" DamageType="U" ID="0" Delay="0.1"></FrameEvent>	
-                        <FrameEvent Type="EFFECT" Frame="12">16018.TXT</FrameEvent>
-                        <FrameEvent Type="EFFECT" Frame="15">16019.TXT</FrameEvent>
+                        <FrameEvent Type="EFFECT" Frame="12">6018.TXT</FrameEvent>
+                        <FrameEvent Type="EFFECT" Frame="15">6019.TXT</FrameEvent>
 		<FrameEvent Type="SOUND" Frame="4" Volume="70">m01154_06_Whs_01.wav</FrameEvent>
 		<FrameEvent Type="SOUND" Frame="10" Volume="30">m01154_06_Whs_02.wav</FrameEvent>
 		<FrameEvent Type="SOUND" Frame="14" Volume="100">m01154_06_01.wav</FrameEvent>

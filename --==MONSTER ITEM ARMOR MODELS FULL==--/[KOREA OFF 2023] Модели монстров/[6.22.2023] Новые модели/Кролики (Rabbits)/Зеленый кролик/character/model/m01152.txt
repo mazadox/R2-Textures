@@ -147,7 +147,7 @@
 	<Action Name ="A_ATTACK1" Loop="FALSE">
 		<FileName>m01152_05.rab</FileName>
 		<FrameEvent Type="DELAY" Frame="29" DamageType="U" ID="0" Delay="0"></FrameEvent>
-                        <FrameEvent Type="EFFECT" Frame="29">16008.TXT</FrameEvent>
+                        <FrameEvent Type="EFFECT" Frame="29">6008.TXT</FrameEvent>
 		<FrameEvent Type="SOUND" Frame="6" Volume="30">m01152_05_Idle.wav</FrameEvent>
 		<FrameEvent Type="SOUND" Frame="8" Volume="100">m01152_05_01.wav</FrameEvent>
 	</Action>
@@ -156,8 +156,8 @@
 		<FileName>m01152_06.rab</FileName>
 		<FrameEvent Type="DELAY" Frame="13" DamageType="U" ID="0" Delay="0"></FrameEvent>
 		<FrameEvent Type="DELAY" Frame="23" DamageType="U" ID="0" Delay="0"></FrameEvent>
-                        <FrameEvent Type="EFFECT" Frame="12">16009.TXT</FrameEvent>
-                        <FrameEvent Type="EFFECT" Frame="22">16010.TXT</FrameEvent>
+                        <FrameEvent Type="EFFECT" Frame="12">6009.TXT</FrameEvent>
+                        <FrameEvent Type="EFFECT" Frame="22">6010.TXT</FrameEvent>
 		<FrameEvent Type="SOUND" Frame="2" Volume="50">m01152_06_Idle.wav</FrameEvent>
 		<FrameEvent Type="SOUND" Frame="6" Volume="70">m01152_06.wav</FrameEvent>
 	</Action>

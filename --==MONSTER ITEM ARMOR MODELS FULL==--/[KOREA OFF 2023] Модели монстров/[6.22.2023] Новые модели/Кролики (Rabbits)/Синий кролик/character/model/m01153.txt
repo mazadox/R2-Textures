@@ -149,7 +149,7 @@
 		<FrameEvent Type="DELAY" Frame="10" DamageType="U" ID="0" Delay="0.03"></FrameEvent>
 		<FrameEvent Type="DELAY" Frame="11" DamageType="D" ID="0" Delay="0.03"></FrameEvent>
 		<FrameEvent Type="DELAY" Frame="13" DamageType="U" ID="0" Delay="0.1"></FrameEvent>	
-                        <FrameEvent Type="EFFECT" Frame="9">16011.TXT</FrameEvent>
+                        <FrameEvent Type="EFFECT" Frame="9">6011.TXT</FrameEvent>
 		<FrameEvent Type="SOUND" Frame="0" Volume="35">m01153_05_Whs.wav</FrameEvent>
 		<FrameEvent Type="SOUND" Frame="2" Volume="80">m01153_05_Whs_02.wav</FrameEvent>
 		<FrameEvent Type="SOUND" Frame="8" Volume="60">m01153_05_04.wav</FrameEvent>
@@ -162,8 +162,8 @@
 		<FileName>m01153_06.rab</FileName>
 		<FrameEvent Type="DELAY" Frame="13" DamageType="L" ID="0" Delay="0.03"></FrameEvent>
 		<FrameEvent Type="DELAY" Frame="14" DamageType="L" ID="0" Delay="0.14"></FrameEvent>
-                        <FrameEvent Type="EFFECT" Frame="11">16012.TXT</FrameEvent>
-                        <FrameEvent Type="EFFECT" Frame="14">16013.TXT</FrameEvent>
+                        <FrameEvent Type="EFFECT" Frame="11">6012.TXT</FrameEvent>
+                        <FrameEvent Type="EFFECT" Frame="14">6013.TXT</FrameEvent>
 		<FrameEvent Type="SOUND" Frame="2" Volume="10">m01153_06_01.wav</FrameEvent>
 		<FrameEvent Type="SOUND" Frame="4" Volume="70">m01153_06_03.wav</FrameEvent>
 		<FrameEvent Type="SOUND" Frame="10" Volume="100">m01153_06_02.wav</FrameEvent>
