@@ -32,7 +32,8 @@
 
 <ol start="2">
 	<li><strong>Загрузка ZIP:</strong> В качестве альтернативы вы можете скачать весь репозиторий в виде ZIP-архива, нажав на кнопку &quot;Code&quot; и выбрав &quot;Download ZIP&quot;. После загрузки вы можете извлечь содержимое в выбранное вами место.</li>
-	<li><strong>Использовать </strong><a href="https://minhaskamal.github.io/DownGit/#/home"><strong>DownGit</strong></a>. Если Вы хотите скачать только определенную папку, а не весь репозиторий. Вставьте ссылку на папку и нажмите кнопку &quot;Download&quot;.</li>
+	<li><strong>Использовать </strong><a href="https://minhaskamal.github.io/DownGit/#/home"><strong>DownGit</strong></a>. Если Вы хотите скачать только определенную папку, а не весь репозиторий. Вставьте ссылку на папку и нажмите кнопку &quot;Download&quot;. <a href="https://github.com/MinhasKamal/DownGit">Git</a></li>
+	<li><strong>Использовать расширение</strong> <a href="https://gitzip.org/"><strong>GitZip</strong></a>. Позволяет скачать выделленые&nbsp;подпапки/файлы из репозитория Github.</li>
 </ol>
 
 <h2>Использование</h2>
